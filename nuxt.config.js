@@ -1,4 +1,8 @@
 export default {
+  loading: {
+    color: 'green',
+    height: '2px'
+  },
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'real-world-nuxt',
